@@ -1,7 +1,7 @@
-Cześć,<br>
-Jestem pasjonatem nowych technologii i entuzjastą projektowania innowacyjnych rozwiązań. Moje repozytoria na GitHubie są miejscem, gdzie eksploruję różnorodne obszary IT i dzielę się moimi eksperymentami oraz projektami.
 
-Moje zainteresowania obejmują również projektowanie i optymalizację serwerów gier, gdzie dążę do stworzenia środowisk, które zapewniają płynną rozgrywkę i wyjątkowe doświadczenia dla użytkowników. 
-Przykładowo, aktualnie pracuję nad projektem implementacji filtrowania ataków sieciowych w technologii XDP, co pozwoli na efektywne zarządzanie ruchem sieciowym w środowiskach gier online.
+Hey,<br>
+I am passionate about new technologies and an enthusiast of designing innovative solutions. My repositories on GitHub are a place where I explore various areas of IT and share my experiments and projects.
+
+My interests also include designing and optimizing game servers, where I strive to create environments that ensure smooth gameplay and unique experiences for users. For example, I am currently working on a project to implement network attack filtering using XDP technology, which will enable efficient network traffic management in online gaming environments.
 
 Discord : .reca7331
